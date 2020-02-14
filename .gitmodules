@@ -4,5 +4,5 @@
 	branch = master
 [submodule "lib/libopencm3-drivers"]
 	path = lib/libopencm3-drivers
-	url = https://github.com/astarianka/libopencm3-drivers
+	url = https://github.com/shchers/libopencm3-drivers
 	branch = master
